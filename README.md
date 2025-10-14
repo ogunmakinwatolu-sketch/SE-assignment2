@@ -81,6 +81,21 @@ SE-assignment2/
 ```
 
 ---
+---
+
+## 🐞 Issues and Resolutions
+
+### Issue #1 — Enhance README with project description and usage instructions
+**Assigned to:** Tolulope Ogunmakinwa  
+**Status:** ✅ Closed  
+**Resolution:** Added detailed documentation to the README file, including a project overview, installation steps, and usage examples.
+
+---
+
+### Issue #2 — Add personalized greeting feature to Hello.py
+**Assigned to:** Ifyakpara  
+**Status:** ✅ Closed  
+**Resolution:** Implemented a personalized greeting feature in the Hello.py file and successfully merged it into the main branch after review.
 
 ## 🧾 License
 This project is created for educational purposes under Prairie View A&M University’s Software Engineering coursework.
